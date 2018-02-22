@@ -1,0 +1,23 @@
+export default function () {
+    return[
+        {
+            id:1,
+            name:"Bhavna",
+            age:21,
+            description:"Developer",
+            pic:"./img/c5.jpeg"
+        },
+        {
+            id:2,
+            name:"Pooja",
+            age:21,
+            description:"Tester"
+        },
+        {
+            id:3,
+            name:"Geet",
+            age:31,
+            description:"CEO"
+        },
+    ]
+}
